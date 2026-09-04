@@ -5,11 +5,11 @@ public class Product1 {
 	float product1Price;
 	float product1Qty;
 
- Product1()//non parameterised constructor
+ Product1()//non parameterized constructor
 	{
 	 this(10,23.23f,23.34f);
 	product1Id=1001;
-	product1Price=101.21f;
+	product1Price =101.21f;
 	product1Qty=121f;
 	System.out.println("Statement for Non parameterized constructor");
 	}
