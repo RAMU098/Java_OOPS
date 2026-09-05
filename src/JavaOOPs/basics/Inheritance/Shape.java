@@ -1,5 +1,5 @@
 package JavaOOPs.basics.Inheritance;
-
+//single inheritance
 public class Shape {
 protected int length;
 protected int breadth;
