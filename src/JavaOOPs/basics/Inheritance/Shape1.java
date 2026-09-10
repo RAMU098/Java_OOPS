@@ -1,5 +1,5 @@
 package JavaOOPs.basics.Inheritance;
-//hierarechal inheritance super class//in this one super class gives properties to multiple sub class
+//hierarechal inheritance super class//in this one super class gives properties to multiple sub class    
 public class Shape1 {
 	protected int len,breadth,side;
 	protected float radius;
