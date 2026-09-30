@@ -16,6 +16,7 @@ public class BufferDemo {
 			//by using fr and fw in place of br and bw it will be take more time 
 			bw.write(n);
 			}
+	//	br.close();
 		long t2=System.nanoTime();
 		System.out.println("Time taken:"+(t2-t1));
 	
