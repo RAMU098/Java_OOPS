@@ -40,7 +40,7 @@ class Employee{
 class ArrayListDemo extends Employee{
 public static void main(String[] args) {
 	ArrayList a=new ArrayList();
-	a.add(new Employee(100,"Ramu",12300));
+	a.add(new Employee(1000,"Ramu",12300));
 	a.add(new Employee(120,"Raju",122345));
 	a.add(new Employee(130,"Tharun",123672));
 	a.sort(new NameComparator());             //for sorting
