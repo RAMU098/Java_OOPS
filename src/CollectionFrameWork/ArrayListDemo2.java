@@ -1,4 +1,4 @@
-package CollectionFrameWork;
+                                                                                                                                                                                                    package CollectionFrameWork;
 import java.util.*;
 public class ArrayListDemo2 {
 public static void main(String[] args) {
