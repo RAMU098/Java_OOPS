@@ -58,7 +58,7 @@ public class CountOccurence {
 		int[]arr= {1,2,2,2,2,2,2,2,3,4};
 		int target=2;
 		int result=firstOccurence(arr, target);
-		System.out.println(result);
+		System.out.println("count Occurence:"+result);
 	}
 	}
 
